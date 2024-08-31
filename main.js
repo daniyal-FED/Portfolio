@@ -90,3 +90,5 @@ emailInput.addEventListener('input', function() {
     emailError.style.display = 'none';
   }
 });
+
+// end 
