@@ -15,7 +15,7 @@ AOS.init({ offset: 0 });
 
 const texts = [
     "WEB DEVELOPER",
-    "GRAPGHIC DESIGNER"
+    "GRAPHIC DESIGNER"
 ]
 
 let speed = 100;
